@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-25T09:49:48" hostname="DESKTOP-1345FN6" time="1.476">
+  <properties/>
+  <testcase name="testCreate" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="1.172"/>
+  <testcase name="testFindBy" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.303"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

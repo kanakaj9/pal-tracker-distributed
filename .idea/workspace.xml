@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pal-tracker-distributed:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80d7f45f-d60f-406e-9cab-f724b3ee9644" name="Default Changelist" comment="second">
+      <change beforePath="$PROJECT_DIR$/applications/backlog-server/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/backlog-server/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/timesheets-server/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/timesheets-server/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/create_databases.sql" beforeDir="false" afterPath="$PROJECT_DIR$/databases/create_databases.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/FlowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/FlowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/pal_tracker_distributed_jar/pal-tracker-distributed.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/restult.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/applications">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/applications/allocations-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/applications/backlog-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/applications/registration-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/applications/timesheets-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/accounts">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/allocations">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/backlog">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/projects">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/rest-support">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/test-support">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/timesheets">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/components/users">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/databases">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/databases/allocations-database">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/databases/backlog-database">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/databases/registration-database">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/databases/timesheets-database">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/integration-test">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="dependenciesgraph" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pal-tracker-distributed" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b1UcEVpkVSBQrpGXqXtvuoOF3K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pal-NewBranch-GIT" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.pal-tracker-distributed [dependenciesGraph]">
+    <configuration name="pal-tracker-distributed [dependenciesGraphDot]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependenciesGraphDot" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="pal-tracker-distributed [dependenciesGraph]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependenciesGraph" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="pal-tracker-distributed [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="pal-tracker-distributed [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.pal-tracker-distributed [dependenciesGraph]" />
+        <item itemvalue="Gradle.pal-tracker-distributed [init]" />
+        <item itemvalue="Gradle.pal-tracker-distributed [wrapper]" />
+        <item itemvalue="Gradle.pal-tracker-distributed [dependenciesGraphDot]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d7f45f-d60f-406e-9cab-f724b3ee9644" name="Default Changelist" comment="" />
+      <created>1587799170575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587799170575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587801878356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587801878356" />
+    <state x="218" y="13" key="CommitChangelistDialog2" timestamp="1587811175092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587811175092" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1587818716832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587818716832" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1587818716833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587818716833" />
+    <state x="348" y="0" key="SettingsEditor" timestamp="1587801885177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587801885177" />
+    <state x="229" y="99" width="713" height="546" key="find.popup" timestamp="1587809630023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="99" width="713" height="546" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587809630023" />
+    <state x="395" y="47" width="672" height="677" key="run.anything.popup" timestamp="1587800143233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="47" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587800143233" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pal_tracker_distributed$pal_tracker_distributed__dependenciesGraph_.ic" NAME="pal-tracker-distributed [dependenciesGraph] Coverage Results" MODIFIED="1587800553838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
